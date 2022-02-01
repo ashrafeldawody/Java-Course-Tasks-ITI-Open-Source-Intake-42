@@ -1,0 +1,1 @@
+javac TextBanner.java & appletviewer applet.html

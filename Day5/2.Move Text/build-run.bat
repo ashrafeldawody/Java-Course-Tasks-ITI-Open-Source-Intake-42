@@ -1,0 +1,1 @@
+javac MoveText.java & appletviewer applet.html

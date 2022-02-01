@@ -1,0 +1,1 @@
+javac TimeApplet.java & appletviewer applet.html

@@ -1,0 +1,12 @@
+Data from sample.txt
+
+
+aa
+
+new
+line
+
+
+new
+line
+111

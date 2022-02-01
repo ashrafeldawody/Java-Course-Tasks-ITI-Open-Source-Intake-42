@@ -1,0 +1,1 @@
+javac ImageApplet.java & appletviewer applet.html

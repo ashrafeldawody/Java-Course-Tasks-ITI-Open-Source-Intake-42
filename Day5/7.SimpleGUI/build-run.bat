@@ -1,0 +1,1 @@
+javac SimpleGUI.java & java SimpleGUI

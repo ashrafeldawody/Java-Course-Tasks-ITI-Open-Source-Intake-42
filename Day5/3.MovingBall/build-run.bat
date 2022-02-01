@@ -1,0 +1,1 @@
+javac MovingBall.java & appletviewer applet.html

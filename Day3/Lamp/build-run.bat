@@ -1,0 +1,1 @@
+javac Lamp.java & appletviewer applet.html
